@@ -4,11 +4,9 @@
 
 ---
 
-## 📸 Habit Tracker Banner  
-*(Add a screenshot or banner here for better visual appeal)*
 
 ## 🌐 Live Demo  
-Coming soon! *(Add your GitHub Pages, Vercel, or Netlify link here)*
+Coming soon! 
 
 ---
 
